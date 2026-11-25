@@ -1,0 +1,1779 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/start.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/start.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/start.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .rodata.dac9708_demo.str1.4
+                0x0000000000000000       0x55 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .text.dac9708_demo
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_info    0x0000000000000000      0x193 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_abbrev  0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_loc     0x0000000000000000       0x7e D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_line    0x0000000000000000      0x19e D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .debug_str     0x0000000000000000      0x1c7 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .eh_frame      0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_stop
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_begin
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc_capture.str1.4
+                0x0000000000000000       0x2e D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_capture
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc_show_status.str1.4
+                0x0000000000000000       0x3d D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_show_status
+                0x0000000000000000       0x44 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc_report.str1.4
+                0x0000000000000000       0x43 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_report
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc_mode_direct.str1.4
+                0x0000000000000000       0x13 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_mode_direct
+                0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.apb_dma_copy.str1.4
+                0x0000000000000000       0x84 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.apb_dma_copy
+                0x0000000000000000       0xdc D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc_mode_apb_dma.str1.4
+                0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc_mode_apb_dma
+                0x0000000000000000       0x88 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .rodata.adc9280_demo.str1.4
+                0x0000000000000000      0x176 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text.adc9280_demo
+                0x0000000000000000       0xfc D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .bss.s_buf     0x0000000000000000      0x400 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_info    0x0000000000000000      0x6ae D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_abbrev  0x0000000000000000      0x199 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_loc     0x0000000000000000      0x4fc D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_aranges
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_ranges  0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_line    0x0000000000000000      0x427 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .debug_str     0x0000000000000000      0x243 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .eh_frame      0x0000000000000000      0x120 D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.is_printable
+                0x0000000000000000        0xc D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.str_eq   0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.uart_line_reset
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.print_help.str1.4
+                0x0000000000000000       0x31 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.print_help
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.print_count.str1.4
+                0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.print_count
+                0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.print_status.str1.4
+                0x0000000000000000       0x8f D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.print_status
+                0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.usb_poll.str1.4
+                0x0000000000000000        0x7 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.usb_poll
+                0x0000000000000000       0xc8 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.do_usb_test.str1.4
+                0x0000000000000000       0xa9 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.do_usb_test
+                0x0000000000000000       0xac D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.uart_poll.str1.4
+                0x0000000000000000       0x4e D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.uart_poll
+                0x0000000000000000      0x198 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .rodata.usb_demo.str1.4
+                0x0000000000000000       0xd6 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text.usb_demo
+                0x0000000000000000       0xe4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_len     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_line    0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_hb      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_drop    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_bad     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_tx      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .bss.s_rx      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_info    0x0000000000000000      0x679 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_abbrev  0x0000000000000000      0x186 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_loc     0x0000000000000000      0x1af D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_aranges
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_ranges  0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_line    0x0000000000000000      0x415 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .debug_str     0x0000000000000000      0x297 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .eh_frame      0x0000000000000000      0x148 D:/LA132_SoC_SW_EXP/build/demo_usb.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/usb.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/usb.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_status
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_init
+                0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_rx_ready
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_tx_full
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_read_byte
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_write_byte
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text.usb_write_str
+                0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_info    0x0000000000000000      0x1d0 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_abbrev  0x0000000000000000       0xf7 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_loc     0x0000000000000000       0xa7 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_aranges
+                0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_ranges  0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_line    0x0000000000000000      0x19d D:/LA132_SoC_SW_EXP/build/usb.o
+ .debug_str     0x0000000000000000      0x1fc D:/LA132_SoC_SW_EXP/build/usb.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/usb.o
+ .eh_frame      0x0000000000000000       0xd8 D:/LA132_SoC_SW_EXP/build/usb.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.kbd_scan
+                0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.kbd_char
+                0x0000000000000000       0xa8 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.rx_to_disp
+                0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.timer_isr
+                0x0000000000000000      0x108 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .rodata.usb_poll.str1.4
+                0x0000000000000000        0x7 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.usb_poll
+                0x0000000000000000       0xc4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .rodata.usb_kbd_demo.str1.4
+                0x0000000000000000       0xe0 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text.usb_kbd_demo
+                0x0000000000000000      0x158 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .data.k_stable.1295
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .bss.k_cnt.1296
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .data.k_raw_last.1294
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .rodata.k_chars
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .rodata.k_row_sel
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .bss.s_drop    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .bss.s_key     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .bss.s_rx      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .data.s_disp   0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_info    0x0000000000000000      0x568 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_abbrev  0x0000000000000000      0x15d D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_loc     0x0000000000000000      0x2a9 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_aranges
+                0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_ranges  0x0000000000000000       0x98 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_line    0x0000000000000000      0x446 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .debug_str     0x0000000000000000      0x2cb D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .eh_frame      0x0000000000000000       0xb8 D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .rodata.at24c64_demo.str1.4
+                0x0000000000000000       0xff D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .text.at24c64_demo
+                0x0000000000000000      0x154 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_info    0x0000000000000000      0x2b2 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_abbrev  0x0000000000000000       0xc7 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_loc     0x0000000000000000      0x10a D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_line    0x0000000000000000      0x209 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .debug_str     0x0000000000000000      0x20e D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_read
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_write
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_get_version
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_get_status
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_is_busy
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_get_done_bytes
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_clear_flags
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_config
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_start
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_abort
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_wait
+                0x0000000000000000       0x78 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_memcpy
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text.axi_dma_memset
+                0x0000000000000000      0x100 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .bss.s_pat_valid
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .bss.s_pat_value
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_info    0x0000000000000000      0x4df D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_abbrev  0x0000000000000000      0x196 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_loc     0x0000000000000000      0x56b D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_aranges
+                0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_ranges  0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_line    0x0000000000000000      0x3e0 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .debug_str     0x0000000000000000      0x2c9 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .eh_frame      0x0000000000000000      0x1ac D:/LA132_SoC_SW_EXP/build/axi_dma.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_init
+                0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_set_fb
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_fb   0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_lcd_id
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_clear
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_pixel
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_hline
+                0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_vline
+                0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_thick_hline
+                0x0000000000000000       0x88 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_thick_vline
+                0x0000000000000000       0x88 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_line
+                0x0000000000000000       0xf8 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_rect
+                0x0000000000000000       0xa8 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_fill_rect
+                0x0000000000000000       0x88 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_pic  0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_char
+                0x0000000000000000      0x138 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_str  0x0000000000000000       0x7c D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text.gfx_num  0x0000000000000000       0xec D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .data.s_fb     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_info    0x0000000000000000      0xc73 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_abbrev  0x0000000000000000      0x24d D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_loc     0x0000000000000000     0x116e D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_aranges
+                0x0000000000000000       0xa0 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_ranges  0x0000000000000000       0xc0 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_line    0x0000000000000000      0x807 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .debug_str     0x0000000000000000      0x32c D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .eh_frame      0x0000000000000000      0x300 D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.chk_word.str1.4
+                0x0000000000000000       0x33 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.chk_word
+                0x0000000000000000       0x64 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.print_sec.str1.4
+                0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.print_sec
+                0x0000000000000000       0x6c D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t7a_direction.str1.4
+                0x0000000000000000      0x171 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t7a_direction
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t7b_fold.str1.4
+                0x0000000000000000       0xba D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t7b_fold
+                0x0000000000000000       0xc8 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t7c_bounds.str1.4
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t7c_bounds
+                0x0000000000000000       0xec D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.report.str1.4
+                0x0000000000000000       0x3b D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.report   0x0000000000000000       0x6c D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t1_data_bus.str1.4
+                0x0000000000000000        0x3 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t1_data_bus
+                0x0000000000000000      0x104 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t2_addr_bus.str1.4
+                0x0000000000000000        0x3 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t2_addr_bus
+                0x0000000000000000      0x100 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t3_block_diag.str1.4
+                0x0000000000000000      0x10b D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t3_block_diag
+                0x0000000000000000      0x304 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t3b_alias_scan.str1.4
+                0x0000000000000000       0x3d D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t3b_alias_scan
+                0x0000000000000000       0xbc D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t3c_probe
+                0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t6_mirror.str1.4
+                0x0000000000000000       0x2f D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t6_mirror
+                0x0000000000000000       0xb0 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t7d_dma.str1.4
+                0x0000000000000000       0xff D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t7d_dma  0x0000000000000000       0xf8 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.t4_dma.str1.4
+                0x0000000000000000       0xaf D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.t4_dma   0x0000000000000000      0x1ac D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.ddr_test_demo.str1.4
+                0x0000000000000000      0x858 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text.ddr_test_demo
+                0x0000000000000000      0x4d4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .rodata.fixed_pats.1175
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .bss.g_first_alias
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .bss.dbg_printed
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .bss.err_total
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_info    0x0000000000000000     0x2177 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_abbrev  0x0000000000000000      0x37c D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_loc     0x0000000000000000     0x1453 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_aranges
+                0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_ranges  0x0000000000000000      0x158 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_line    0x0000000000000000     0x11e6 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .debug_str     0x0000000000000000      0x3c4 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .eh_frame      0x0000000000000000      0x288 D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_read
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_write
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_reset
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_probe
+                0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_set_fb
+                0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_set_fmt
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_set_prefill_thresh
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_start
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_stop
+                0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_get_status
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_clear_status
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_get_fill_level
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_get_fb_bytes
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_get_res
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text.axi_lcd_wait_frame
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_info    0x0000000000000000      0x36d D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_abbrev  0x0000000000000000      0x147 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_loc     0x0000000000000000      0x17c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_aranges
+                0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_ranges  0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_line    0x0000000000000000      0x2f0 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .debug_str     0x0000000000000000      0x2cf D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .eh_frame      0x0000000000000000      0x17c D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.fg_on    0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.draw_rect
+                0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.draw_frame
+                0x0000000000000000       0xac D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.draw_vbar
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.draw_bars
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.draw_calib
+                0x0000000000000000      0x138 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.cmp_row0
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .rodata.axi_lcd_dma_demo.str1.4
+                0x0000000000000000      0x9a8 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text.axi_lcd_dma_demo
+                0x0000000000000000      0x594 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .rodata.s_bar  0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .rodata.s_cycle
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_info    0x0000000000000000     0x12f1 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_abbrev  0x0000000000000000      0x261 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_loc     0x0000000000000000      0x874 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_aranges
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_ranges  0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_line    0x0000000000000000      0x58d D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .debug_str     0x0000000000000000      0x379 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .eh_frame      0x0000000000000000      0x110 D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_scale
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_brush
+                0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_line
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.touch_read_raw
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.touch_map
+                0x0000000000000000       0x78 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .rodata.trail_auto_range.str1.4
+                0x0000000000000000       0x4f D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_auto_range
+                0x0000000000000000       0xb0 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_clear
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .rodata.trail_selfcheck.str1.4
+                0x0000000000000000       0xc1 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.trail_selfcheck
+                0x0000000000000000      0x1a8 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .rodata.touch_trail_demo.str1.4
+                0x0000000000000000      0x588 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text.touch_trail_demo
+                0x0000000000000000      0x440 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .data.g_raw_max_y
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .data.g_raw_max_x
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_info    0x0000000000000000      0xef4 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_abbrev  0x0000000000000000      0x2b9 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_loc     0x0000000000000000      0xc19 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_aranges
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_ranges  0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_line    0x0000000000000000      0x754 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .debug_str     0x0000000000000000      0x39e D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .eh_frame      0x0000000000000000      0x16c D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .rodata.ram_demo.str1.4
+                0x0000000000000000       0x57 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .text.ram_demo
+                0x0000000000000000       0xc8 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_info    0x0000000000000000      0x1b7 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_abbrev  0x0000000000000000       0xc7 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_loc     0x0000000000000000       0x82 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_line    0x0000000000000000      0x176 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .debug_str     0x0000000000000000      0x1cd D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_ram.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .rodata.ddram_demo.str1.4
+                0x0000000000000000       0x9b D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .text.ddram_demo
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_info    0x0000000000000000      0x1ef D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_abbrev  0x0000000000000000       0xc7 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_loc     0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_line    0x0000000000000000      0x181 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .debug_str     0x0000000000000000      0x1d1 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_isr  0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_int_enable
+                0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_run_one
+                0x0000000000000000       0xe8 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .rodata.dma_mem_mode.str1.4
+                0x0000000000000000       0xb1 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_mem_mode
+                0x0000000000000000      0x108 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .rodata.dma_show_dst.str1.4
+                0x0000000000000000       0x17 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_show_dst
+                0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .rodata.dma_wait_choice.str1.4
+                0x0000000000000000      0x193 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_wait_choice
+                0x0000000000000000      0x140 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .rodata.dma_uart_mode.str1.4
+                0x0000000000000000      0x19c D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.dma_uart_mode
+                0x0000000000000000      0x200 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .rodata.apb_dma_demo.str1.4
+                0x0000000000000000       0x5b D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text.apb_dma_demo
+                0x0000000000000000       0x6c D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .bss.s_dma_done
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_info    0x0000000000000000      0x7c1 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_abbrev  0x0000000000000000      0x1b7 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_loc     0x0000000000000000      0x589 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_aranges
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_ranges  0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_line    0x0000000000000000      0x5e7 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .debug_str     0x0000000000000000      0x279 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .eh_frame      0x0000000000000000      0x138 D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text.q_push   0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text.q_pop    0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text.kbd_isr  0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .rodata.print_ctrl.str1.4
+                0x0000000000000000       0x2a D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text.print_ctrl
+                0x0000000000000000       0x44 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .rodata.apb_kbd_demo.str1.4
+                0x0000000000000000      0x193 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text.apb_kbd_demo
+                0x0000000000000000      0x3c0 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .rodata.str1.4
+                0x0000000000000000       0x11 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .rodata.per.1201
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .bss.s_irq_cnt
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .bss.s_qt      0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .bss.s_qh      0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .bss.s_q       0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .rodata.s_hex  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_info    0x0000000000000000      0x55e D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_abbrev  0x0000000000000000      0x181 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_loc     0x0000000000000000      0x2da D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_aranges
+                0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_ranges  0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_line    0x0000000000000000      0x4fa D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .debug_str     0x0000000000000000      0x26c D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .eh_frame      0x0000000000000000       0x94 D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .rodata.dot_matrix_demo.str1.4
+                0x0000000000000000      0x213 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .text.dot_matrix_demo
+                0x0000000000000000      0x2d0 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_info    0x0000000000000000      0x3e4 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_abbrev  0x0000000000000000      0x109 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_loc     0x0000000000000000       0xe3 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_ranges  0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_line    0x0000000000000000      0x30a D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .debug_str     0x0000000000000000      0x1fb D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.isr14    0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.isr15    0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .rodata.self_test_bits.str1.4
+                0x0000000000000000      0x12c D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.self_test_bits
+                0x0000000000000000      0x1b4 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .rodata.show_real_sources.str1.4
+                0x0000000000000000       0xbb D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.show_real_sources
+                0x0000000000000000       0xc4 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .rodata.test_delivery.str1.4
+                0x0000000000000000       0xdd D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.test_delivery
+                0x0000000000000000      0x318 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .rodata.intc16_demo.str1.4
+                0x0000000000000000       0xde D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text.intc16_demo
+                0x0000000000000000       0xc0 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .bss.s_fail    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .bss.s_irq15   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .bss.s_irq14   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_info    0x0000000000000000      0x4a6 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_abbrev  0x0000000000000000      0x108 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_loc     0x0000000000000000       0xfa D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_aranges
+                0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_ranges  0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_line    0x0000000000000000      0x4c2 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .debug_str     0x0000000000000000      0x23d D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .eh_frame      0x0000000000000000       0xe0 D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .eh_frame      0x0000000000000000       0x98 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.pattern_at
+                0x0000000000000000      0x198 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .rodata.pattern_at
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.breath_at
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.led_timer_isr
+                0x0000000000000000      0x110 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.key1_isr
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.key2_isr
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .rodata.led_flow_demo.str1.4
+                0x0000000000000000       0xa8 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text.led_flow_demo
+                0x0000000000000000      0x1f0 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .rodata.tab.1211
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_led     0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .data.s_changed
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_step    0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_pat     0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_beat_ms
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_beat    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .data.s_interval
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .bss.s_ms      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .rodata.str1.4
+                0x0000000000000000       0x57 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .rodata.s_pat_name
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_info    0x0000000000000000      0x41d D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_abbrev  0x0000000000000000      0x1a4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_loc     0x0000000000000000      0x254 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_aranges
+                0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_ranges  0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_line    0x0000000000000000      0x4be D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .debug_str     0x0000000000000000      0x285 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .eh_frame      0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.time_tick
+                0x0000000000000000       0xa8 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.bcd2dec  0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.dec2bcd  0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.clk_isr  0x0000000000000000       0x9c D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .rodata.rtc_sync.str1.4
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.rtc_sync
+                0x0000000000000000      0x12c D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .rodata.apply_time_cmd.str1.4
+                0x0000000000000000       0x52 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.apply_time_cmd
+                0x0000000000000000      0x160 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .rodata.poll_uart_cmd.str1.4
+                0x0000000000000000       0x1e D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.poll_uart_cmd
+                0x0000000000000000       0xf4 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.refresh_display
+                0x0000000000000000       0xf0 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .rodata.rtc_clock_demo.str1.4
+                0x0000000000000000       0x8b D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text.rtc_clock_demo
+                0x0000000000000000      0x1a0 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_cmd_active
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_cmd_len
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_cmd     0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .data.s_need_refresh
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_uptime  0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_100ms   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_ms      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_hour    0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_min     0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .bss.s_sec     0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_info    0x0000000000000000      0x621 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_abbrev  0x0000000000000000      0x17f D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_loc     0x0000000000000000      0x259 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_aranges
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_ranges  0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_line    0x0000000000000000      0x5ea D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .debug_str     0x0000000000000000      0x30f D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .eh_frame      0x0000000000000000      0x134 D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.k1_isr   0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.k2_isr   0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_capture
+                0x0000000000000000       0xa0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_trigger
+                0x0000000000000000       0xa0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_y  0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_fill_black
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.scope_print_cfg.str1.4
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_print_cfg
+                0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_draw_grid
+                0x0000000000000000       0x94 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.scope_lcd_watchdog.str1.4
+                0x0000000000000000       0x2d D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.scope_lcd_watchdog
+                0x0000000000000000      0x12c D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.lcd_scope_demo.str1.4
+                0x0000000000000000      0x16d D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text.lcd_scope_demo
+                0x0000000000000000      0x8a4 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .bss.s_lcd_dead
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .data.s_lcd_wait
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .bss.s_underruns
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .data.s_chg    0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .data.s_th     0x0000000000000000        0x2 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .bss.s_edge    0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .data.s_vscale
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .bss.s_rate    0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.str1.4
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.s_fs_name
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .rodata.s_div_tab
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_info    0x0000000000000000      0xb00 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_abbrev  0x0000000000000000      0x224 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_loc     0x0000000000000000      0x58f D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_aranges
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_ranges  0x0000000000000000       0xd0 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_line    0x0000000000000000      0xa9b D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .debug_str     0x0000000000000000      0x399 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .eh_frame      0x0000000000000000      0x11c D:/LA132_SoC_SW_EXP/build/demo_scope.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.ss_read  0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.ss_flush
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.chk.str1.4
+                0x0000000000000000       0x46 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.chk      0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_ident.str1.4
+                0x0000000000000000       0x59 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_ident
+                0x0000000000000000       0xb0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_loop.str1.4
+                0x0000000000000000       0xaf D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_loop
+                0x0000000000000000      0x188 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_da_wave.str1.4
+                0x0000000000000000       0x6b D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_da_wave
+                0x0000000000000000       0xc0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_ad.str1.4
+                0x0000000000000000      0x16a D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_ad  0x0000000000000000      0x20c D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_cnt_clear.str1.4
+                0x0000000000000000       0x42 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_cnt_clear
+                0x0000000000000000       0x9c D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.test_dma.str1.4
+                0x0000000000000000       0xa3 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.test_dma
+                0x0000000000000000      0x1c4 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .rodata.spi_stream_demo.str1.4
+                0x0000000000000000       0x31 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text.spi_stream_demo
+                0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .bss.s_fail    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_info    0x0000000000000000      0x7d0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_abbrev  0x0000000000000000      0x1d4 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_loc     0x0000000000000000      0x508 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_aranges
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_ranges  0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_line    0x0000000000000000      0x6b0 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .debug_str     0x0000000000000000      0x240 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .eh_frame      0x0000000000000000      0x178 D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .text.tp_isr   0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .text.draw_dot
+                0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .text.erase_old
+                0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .rodata.touch_multi_demo.str1.4
+                0x0000000000000000      0x11b D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .text.touch_multi_demo
+                0x0000000000000000      0x40c D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss.s_old_n   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss.s_old_y   0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss.s_old_x   0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss.s_irq_off
+                0x0000000000000000        0x1 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .bss.s_irq_cnt
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .rodata.s_color
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_info    0x0000000000000000      0x63d D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_abbrev  0x0000000000000000      0x182 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_loc     0x0000000000000000      0x347 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_aranges
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_ranges  0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_line    0x0000000000000000      0x4cc D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .debug_str     0x0000000000000000      0x2ae D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .eh_frame      0x0000000000000000       0xa8 D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .rodata.gpio_led_demo.str1.4
+                0x0000000000000000       0xc9 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .text.gpio_led_demo
+                0x0000000000000000       0xdc D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_info    0x0000000000000000      0x1fc D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_abbrev  0x0000000000000000       0xdd D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_loc     0x0000000000000000       0xab D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_line    0x0000000000000000      0x16f D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .debug_str     0x0000000000000000      0x1eb D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .rodata.gpio_mode_demo.str1.4
+                0x0000000000000000       0x8d D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .rodata        0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .text.gpio_mode_demo
+                0x0000000000000000      0x1a8 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .rodata.s_down_arrow
+                0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_info    0x0000000000000000      0x232 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_abbrev  0x0000000000000000      0x10d D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_loc     0x0000000000000000       0xb4 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_line    0x0000000000000000      0x229 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .debug_str     0x0000000000000000      0x21a D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_code
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_set_ndigits
+                0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_set_digits
+                0x0000000000000000       0x74 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_set_value
+                0x0000000000000000       0xc0 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_scan
+                0x0000000000000000       0xb8 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .rodata.s_code
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .eh_frame      0x0000000000000000       0xd0 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_GenerateACK
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_Wait
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_Init
+                0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_Unlock
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_SendData
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000       0x44 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_Busy
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text.I2C_Delay
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_info    0x0000000000000000      0x35c D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_abbrev  0x0000000000000000      0x170 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_loc     0x0000000000000000      0x146 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_aranges
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_ranges  0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_line    0x0000000000000000      0x26d D:/LA132_SoC_SW_EXP/build/i2c.o
+ .debug_str     0x0000000000000000      0x2bd D:/LA132_SoC_SW_EXP/build/i2c.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .eh_frame      0x0000000000000000      0x118 D:/LA132_SoC_SW_EXP/build/i2c.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/intc.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/intc.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/intc.o
+ .text.Set_Interrupt
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/intc.o
+ .text.Clr_Interrupt
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/intc.o
+ .text.Init_Interrupt
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/intc.o
+ .text.Set_Mul  0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_info    0x0000000000000000      0x1b1 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_abbrev  0x0000000000000000       0xe0 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_loc     0x0000000000000000       0xf3 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_aranges
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_ranges  0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_line    0x0000000000000000      0x10a D:/LA132_SoC_SW_EXP/build/intc.o
+ .debug_str     0x0000000000000000      0x164 D:/LA132_SoC_SW_EXP/build/intc.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/intc.o
+ .eh_frame      0x0000000000000000       0x64 D:/LA132_SoC_SW_EXP/build/intc.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .text.btn_isr  0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .text.btn0_isr
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .text.btn1_isr
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .rodata.intc_btn_demo.str1.4
+                0x0000000000000000       0x4f D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .text.intc_btn_demo
+                0x0000000000000000       0xd8 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .bss.s_cnt     0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_info    0x0000000000000000      0x264 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_abbrev  0x0000000000000000      0x127 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_loc     0x0000000000000000       0xa3 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_aranges
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_ranges  0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_line    0x0000000000000000      0x1ee D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .debug_str     0x0000000000000000      0x218 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .eh_frame      0x0000000000000000       0x7c D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .text.delay_ms
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .text.delay_s  0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .text.SetTime  0x0000000000000000       0x44 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .text.CompareTime
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .eh_frame      0x0000000000000000      0x14c D:/LA132_SoC_SW_EXP/build/latimer.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .text.init_penguin
+                0x0000000000000000      0x3d8 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .text.draw_penguin
+                0x0000000000000000       0xd8 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .rodata.lcd_pic_demo.str1.4
+                0x0000000000000000       0xc2 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .text.lcd_pic_demo
+                0x0000000000000000       0xfc D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .bss.penguin   0x0000000000000000      0xe10 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_info    0x0000000000000000      0x492 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_abbrev  0x0000000000000000      0x14c D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_loc     0x0000000000000000      0x215 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_aranges
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_ranges  0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_line    0x0000000000000000      0x563 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .debug_str     0x0000000000000000      0x21f D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .eh_frame      0x0000000000000000       0x80 D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .rodata.lcd_test_demo.str1.4
+                0x0000000000000000      0x112 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .text.lcd_test_demo
+                0x0000000000000000      0x168 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_info    0x0000000000000000      0x39d D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_abbrev  0x0000000000000000       0xcf D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_loc     0x0000000000000000       0x22 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_line    0x0000000000000000      0x16e D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .debug_str     0x0000000000000000      0x20d D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .eh_frame      0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/font.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/font.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/font.o
+ .rodata.Char_Font_16x16
+                0x0000000000000000      0xbc0 D:/LA132_SoC_SW_EXP/build/font.o
+ .rodata.Char_Font_24x48
+                0x0000000000000000      0x6c0 D:/LA132_SoC_SW_EXP/build/font.o
+ .debug_info    0x0000000000000000      0x10b D:/LA132_SoC_SW_EXP/build/font.o
+ .debug_abbrev  0x0000000000000000       0x74 D:/LA132_SoC_SW_EXP/build/font.o
+ .debug_aranges
+                0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/font.o
+ .debug_line    0x0000000000000000       0x6c D:/LA132_SoC_SW_EXP/build/font.o
+ .debug_str     0x0000000000000000      0x1c3 D:/LA132_SoC_SW_EXP/build/font.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/font.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .text.draw_corners
+                0x0000000000000000       0xac D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .text.draw_grid
+                0x0000000000000000       0x78 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .rodata.lcd_pass_demo.str1.4
+                0x0000000000000000      0x1b1 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .text.lcd_pass_demo
+                0x0000000000000000      0x20c D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_info    0x0000000000000000      0x6e8 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_abbrev  0x0000000000000000      0x11f D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_loc     0x0000000000000000      0x103 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_aranges
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_ranges  0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_line    0x0000000000000000      0x22d D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .debug_str     0x0000000000000000      0x27c D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .eh_frame      0x0000000000000000       0x88 D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .text.touch_isr
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .text.touch_scale
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .text.draw_cross
+                0x0000000000000000       0x74 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .rodata.touch_demo.str1.4
+                0x0000000000000000      0x12e D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .text.touch_demo
+                0x0000000000000000      0x324 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .data.s_cy     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .data.s_cx     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .bss.s_flag    0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .bss.s_raw_y   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .bss.s_raw_x   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_info    0x0000000000000000      0x745 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_abbrev  0x0000000000000000      0x162 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_loc     0x0000000000000000      0x238 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_aranges
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_ranges  0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_line    0x0000000000000000      0x30d D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .debug_str     0x0000000000000000      0x29c D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .eh_frame      0x0000000000000000       0x8c D:/LA132_SoC_SW_EXP/build/demo_touch.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text.Pwm_Stop
+                0x0000000000000000        0xc D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text.Pwm_motor_Init
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text.Pwm_Set  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text.Pwm_steering_engine_Init
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text.Pwm_steering_engine_Set
+                0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_info    0x0000000000000000      0x17e D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_abbrev  0x0000000000000000       0xce D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_loc     0x0000000000000000       0x25 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_aranges
+                0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_ranges  0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_line    0x0000000000000000      0x13c D:/LA132_SoC_SW_EXP/build/pwm.o
+ .debug_str     0x0000000000000000      0x216 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .eh_frame      0x0000000000000000       0x78 D:/LA132_SoC_SW_EXP/build/pwm.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .rodata.pwm_motor_demo.str1.4
+                0x0000000000000000       0x72 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .text.pwm_motor_demo
+                0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_info    0x0000000000000000      0x192 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_abbrev  0x0000000000000000       0x9f D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_line    0x0000000000000000      0x165 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .debug_str     0x0000000000000000      0x1c3 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .eh_frame      0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .text.wait_key
+                0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .rodata.rtc_prompt_set.str1.4
+                0x0000000000000000      0x158 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .text.rtc_prompt_set
+                0x0000000000000000      0x190 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .rodata.rtc_demo.str1.4
+                0x0000000000000000       0x8b D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .text.rtc_demo
+                0x0000000000000000       0x94 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_info    0x0000000000000000      0x5a5 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_abbrev  0x0000000000000000      0x13f D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_loc     0x0000000000000000      0x197 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_ranges  0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_line    0x0000000000000000      0x27b D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .debug_str     0x0000000000000000      0x253 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .eh_frame      0x0000000000000000       0x8c D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .rodata.spi_adc_isr.str1.4
+                0x0000000000000000       0x17 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .text.spi_adc_isr
+                0x0000000000000000       0x78 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .rodata.spi_adc_demo.str1.4
+                0x0000000000000000       0x32 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .text.spi_adc_demo
+                0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_info    0x0000000000000000      0x1cf D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_abbrev  0x0000000000000000       0xec D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_loc     0x0000000000000000       0x70 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_aranges
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_ranges  0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_line    0x0000000000000000      0x1c1 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .debug_str     0x0000000000000000      0x1f5 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .eh_frame      0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .text.spi_wait_idle
+                0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .text.dac_write_ab
+                0x0000000000000000       0x9c D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .text.spi_dac_isr
+                0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .rodata.spi_dac_demo.str1.4
+                0x0000000000000000       0x42 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .text.spi_dac_demo
+                0x0000000000000000       0xc0 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .bss.s_dac_data
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_info    0x0000000000000000      0x245 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_abbrev  0x0000000000000000      0x104 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_loc     0x0000000000000000       0xd2 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_aranges
+                0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_ranges  0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_line    0x0000000000000000      0x253 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .debug_str     0x0000000000000000      0x235 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .eh_frame      0x0000000000000000       0x98 D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .rodata.step_motor_demo.str1.4
+                0x0000000000000000       0x4f D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .text.step_motor_demo
+                0x0000000000000000       0xc8 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .rodata.s_byj_8_cw
+                0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .rodata.s_byj_8_ccw
+                0x0000000000000000        0x8 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_info    0x0000000000000000      0x1a5 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_abbrev  0x0000000000000000       0xfa D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_loc     0x0000000000000000       0x82 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_line    0x0000000000000000      0x181 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .debug_str     0x0000000000000000      0x1e9 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .eh_frame      0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .text.timer_isr
+                0x0000000000000000       0x7c D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .rodata.timer_irq_demo.str1.4
+                0x0000000000000000       0x3f D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .text.timer_irq_demo
+                0x0000000000000000       0xc8 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .bss.s_sec     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .bss.s_ms      0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_info    0x0000000000000000      0x1df D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_abbrev  0x0000000000000000       0xf0 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_loc     0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_aranges
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_ranges  0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_line    0x0000000000000000      0x1b8 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .debug_str     0x0000000000000000      0x218 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .eh_frame      0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.str_eq   0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.print_status.str1.4
+                0x0000000000000000       0x87 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.print_status
+                0x0000000000000000       0x68 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.print_help.str1.4
+                0x0000000000000000       0x31 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.print_help
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.print_rx_stat.str1.4
+                0x0000000000000000       0xbd D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.print_rx_stat
+                0x0000000000000000       0xb4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.print_fault_test.str1.4
+                0x0000000000000000       0xef D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.print_fault_test
+                0x0000000000000000       0x98 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.print_test_pattern.str1.4
+                0x0000000000000000       0x47 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.print_test_pattern
+                0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.run_line.str1.4
+                0x0000000000000000       0x34 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.run_line
+                0x0000000000000000      0x100 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.put_hex2.str1.4
+                0x0000000000000000       0x11 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.put_hex2
+                0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .rodata.uart_irq_demo.str1.4
+                0x0000000000000000       0xdc D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text.uart_irq_demo
+                0x0000000000000000      0x30c D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_rx_seen
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_rx_cr   0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_rx_bad  0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_rx_print
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_rx_total
+                0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_led     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_len     0x0000000000000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .bss.s_line    0x0000000000000000       0x40 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_info    0x0000000000000000      0x82b D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_abbrev  0x0000000000000000      0x1ae D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_loc     0x0000000000000000      0x295 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_aranges
+                0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_ranges  0x0000000000000000       0x50 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_line    0x0000000000000000      0x4d1 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .debug_str     0x0000000000000000      0x2e1 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .eh_frame      0x0000000000000000      0x144 D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/uart.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_rx_irq_count
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_rx_drop_count
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_putc_drop
+                0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_interrupt_init
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_puts
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_rx_ready
+                0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_rx_flush
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_read_char
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_read_bcd_char
+                0x0000000000000000       0x4c D:/LA132_SoC_SW_EXP/build/uart.o
+ .text.uart_getchar_nb
+                0x0000000000000000       0x9c D:/LA132_SoC_SW_EXP/build/uart.o
+ .eh_frame      0x0000000000000000      0x160 D:/LA132_SoC_SW_EXP/build/uart.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .text.AT24C64_WriteByte
+                0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .text.AT24C64_ReadByte
+                0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_info    0x0000000000000000      0x271 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_abbrev  0x0000000000000000       0xf0 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_loc     0x0000000000000000       0x92 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_aranges
+                0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_ranges  0x0000000000000000       0x18 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_line    0x0000000000000000       0xe6 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .debug_str     0x0000000000000000      0x227 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .eh_frame      0x0000000000000000       0x5c D:/LA132_SoC_SW_EXP/build/AT24C64.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/math.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/math.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/math.o
+ .text.oled_pow
+                0x0000000000000000       0x24 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_info    0x0000000000000000      0x103 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_abbrev  0x0000000000000000       0x90 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_loc     0x0000000000000000       0x77 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_ranges  0x0000000000000000       0x10 D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_line    0x0000000000000000       0x9d D:/LA132_SoC_SW_EXP/build/math.o
+ .debug_str     0x0000000000000000      0x1b1 D:/LA132_SoC_SW_EXP/build/math.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/math.o
+ .eh_frame      0x0000000000000000       0x28 D:/LA132_SoC_SW_EXP/build/math.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .eh_frame      0x0000000000000000       0x30 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/printf.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/printf.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/printf.o
+ .eh_frame      0x0000000000000000      0x14c D:/LA132_SoC_SW_EXP/build/printf.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.BCD2Decimal1
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.RTC_WriteRegister
+                0x0000000000000000       0x58 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.RTC_ReadRegister
+                0x0000000000000000       0x54 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.RTC_ReadTime
+                0x0000000000000000       0xa4 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.RTC_SetTime
+                0x0000000000000000       0x98 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text.RTC_Init
+                0x0000000000000000       0x3c D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_info    0x0000000000000000      0x4f1 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_abbrev  0x0000000000000000      0x144 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_loc     0x0000000000000000      0x256 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_aranges
+                0x0000000000000000       0x48 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_ranges  0x0000000000000000       0x38 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_line    0x0000000000000000      0x2c1 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .debug_str     0x0000000000000000      0x266 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .comment       0x0000000000000000       0x12 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .eh_frame      0x0000000000000000       0xd4 D:/LA132_SoC_SW_EXP/build/rtc.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/main.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/main.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/main.o
+ .eh_frame      0x0000000000000000       0x2c D:/LA132_SoC_SW_EXP/build/main.o
+ .text          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .data          0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .bss           0x0000000000000000        0x0 D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .text.EnableInt
+                0x0000000000000000        0xc D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .text.Disable_LA_Globl_Int
+                0x0000000000000000        0xc D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .text.Disable_LA_Local_Int
+                0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .text.intc_irq_detach
+                0x0000000000000000       0x1c D:/LA132_SoC_SW_EXP/build/interrupt.o
+ .eh_frame      0x0000000000000000      0x128 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x000000001c000000 0x0000000000010000 r
+iram             0x0000000080000000 0x0000000000001000 rw
+dram             0x0000000080001000 0x0000000000001000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.text           0x000000001c000000     0x2920
+                0x000000001c000000                . = ALIGN (0x4)
+ *(.text .text.*)
+ .text._start   0x000000001c000000     0x113c D:/LA132_SoC_SW_EXP/build/start.o
+                0x000000001c000000                _start
+ .text.q_push   0x000000001c00113c       0x54 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .text.q_pop    0x000000001c001190       0x68 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .text.bits_first
+                0x000000001c0011f8       0x2c D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .text.kbd_scan_isr
+                0x000000001c001224      0x240 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .text.kbd_scan_demo
+                0x000000001c001464      0x160 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+                0x000000001c001464                kbd_scan_demo
+ .text.char_to_segcode
+                0x000000001c0015c4       0x68 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .text.seg7_init
+                0x000000001c00162c       0x30 D:/LA132_SoC_SW_EXP/build/seg7.o
+                0x000000001c00162c                seg7_init
+ .text.seg7_set_chars
+                0x000000001c00165c       0x8c D:/LA132_SoC_SW_EXP/build/seg7.o
+                0x000000001c00165c                seg7_set_chars
+ .text.get_count
+                0x000000001c0016e8        0x8 D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c0016e8                get_count
+ .text.open_count
+                0x000000001c0016f0        0xc D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c0016f0                open_count
+ .text.close_count
+                0x000000001c0016fc        0xc D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c0016fc                close_count
+ .text.start_count
+                0x000000001c001708       0x30 D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c001708                start_count
+ .text.stop_count
+                0x000000001c001738       0x40 D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c001738                stop_count
+ .text.delay_cycle
+                0x000000001c001778       0x4c D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c001778                delay_cycle
+ .text.delay_us
+                0x000000001c0017c4       0x1c D:/LA132_SoC_SW_EXP/build/latimer.o
+                0x000000001c0017c4                delay_us
+ .text.uart_irq_count_inc
+                0x000000001c0017e0       0x18 D:/LA132_SoC_SW_EXP/build/uart.o
+                0x000000001c0017e0                uart_irq_count_inc
+ .text.uart_init
+                0x000000001c0017f8      0x104 D:/LA132_SoC_SW_EXP/build/uart.o
+                0x000000001c0017f8                uart_init
+ .text.uart_putc
+                0x000000001c0018fc       0x4c D:/LA132_SoC_SW_EXP/build/uart.o
+                0x000000001c0018fc                uart_putc
+ .text.uart_irq_rx_mode
+                0x000000001c001948       0x14 D:/LA132_SoC_SW_EXP/build/uart.o
+                0x000000001c001948                uart_irq_rx_mode
+ .text.uart_rx_push
+                0x000000001c00195c       0x6c D:/LA132_SoC_SW_EXP/build/uart.o
+                0x000000001c00195c                uart_rx_push
+ .text._putchar
+                0x000000001c0019c8       0x20 D:/LA132_SoC_SW_EXP/build/putchar.o
+                0x000000001c0019c8                _putchar
+ .text._out_null
+                0x000000001c0019e8        0x4 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._atoi    0x000000001c0019ec       0x44 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._out_rev
+                0x000000001c001a30      0x10c D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._ntoa_format
+                0x000000001c001b3c      0x1c0 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._ntoa_long
+                0x000000001c001cfc      0x240 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._vsnprintf
+                0x000000001c001f3c      0x7c4 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text._out_char
+                0x000000001c002700       0x20 D:/LA132_SoC_SW_EXP/build/printf.o
+ .text.printf   0x000000001c002720       0x50 D:/LA132_SoC_SW_EXP/build/printf.o
+                0x000000001c002720                printf
+ .text.main     0x000000001c002770       0x54 D:/LA132_SoC_SW_EXP/build/main.o
+                0x000000001c002770                main
+ .text.Write_INT_EENTRY
+                0x000000001c0027c4        0xc D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c0027c4                Write_INT_EENTRY
+ .text.Enable_LA_Globl_Int
+                0x000000001c0027d0        0xc D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c0027d0                Enable_LA_Globl_Int
+ .text.Enable_LA_Local_Int
+                0x000000001c0027dc       0x14 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c0027dc                Enable_LA_Local_Int
+ .text.Set_LA_VS
+                0x000000001c0027f0       0x10 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c0027f0                Set_LA_VS
+ .text.intc_irq_init
+                0x000000001c002800       0x2c D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c002800                intc_irq_init
+ .text.intc_irq_attach
+                0x000000001c00282c       0x1c D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c00282c                intc_irq_attach
+ .text.intc_irq_dispatch
+                0x000000001c002848       0x38 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c002848                intc_irq_dispatch
+ .text.uart_handler
+                0x000000001c002880       0xa0 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x000000001c002880                uart_handler
+                0x000000001c002920                . = ALIGN (0x4)
+                0x000000001c002920                _etext = .
+
+.rodata         0x000000001c002920      0x30c
+                0x000000001c002920                . = ALIGN (0x4)
+ *(.rodata .rodata.*)
+ .rodata.kbd_scan_demo.str1.4
+                0x000000001c002920       0xac D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .rodata.s_key_char
+                0x000000001c0029cc       0x10 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .rodata._vsnprintf
+                0x000000001c0029dc      0x194 D:/LA132_SoC_SW_EXP/build/printf.o
+ .rodata.main.str1.4
+                0x000000001c002b70       0xbc D:/LA132_SoC_SW_EXP/build/main.o
+                                         0xb9 (size before relaxing)
+                0x000000001c002c2c                . = ALIGN (0x4)
+                0x000000001c002c2c                _sidata = ALIGN (., 0x4)
+                0x000000001c002c2c                . = ALIGN (0x4)
+
+.rela.dyn       0x000000001c002c2c        0x0
+ .rela.rodata._vsnprintf
+                0x000000001c002c2c        0x0 D:/LA132_SoC_SW_EXP/build/start.o
+
+.data           0x0000000080001000        0x4 load address 0x000000001c002c2c
+                0x0000000080001000                _sdata = .
+                0x0000000080001000                . = ALIGN (0x4)
+ *(.got.plt)
+                0x0000000080001000                . = ALIGN (0x4)
+ *(.got)
+                0x0000000080001000                . = ALIGN (0x4)
+ *(.data .data.*)
+ .data.s_ndig   0x0000000080001000        0x1 D:/LA132_SoC_SW_EXP/build/seg7.o
+                0x0000000080001004                . = ALIGN (0x4)
+ *fill*         0x0000000080001001        0x3 
+                0x0000000080001004                _edata = .
+
+.bss            0x0000000080000000       0xc8
+                0x0000000080000000                _sbss = .
+                0x0000000080000000                . = ALIGN (0x4)
+ *(.sbss .sbss.*)
+                0x0000000080000000                . = ALIGN (0x4)
+ *(.bss .bss.*)
+ .bss.s_ms      0x0000000080000000        0x4 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_irq_cnt
+                0x0000000080000004        0x4 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_hold    0x0000000080000008        0x1 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_deb     0x0000000080000009        0x1 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_stable  0x000000008000000a        0x2 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_bits    0x000000008000000c        0x2 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_row     0x000000008000000e        0x1 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_q_tail  0x000000008000000f        0x1 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_q_head  0x0000000080000010        0x1 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ *fill*         0x0000000080000011        0x3 
+ .bss.s_q       0x0000000080000014       0x10 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .bss.s_pos     0x0000000080000024        0x1 D:/LA132_SoC_SW_EXP/build/seg7.o
+ *fill*         0x0000000080000025        0x3 
+ .bss.s_dig     0x0000000080000028        0x8 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .bss.s_irq_rx_mode
+                0x0000000080000030        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_rx_tail
+                0x0000000080000034        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_rx_head
+                0x0000000080000038        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_rx_buf  0x000000008000003c       0x40 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_putc_drop
+                0x000000008000007c        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_rx_drop
+                0x0000000080000080        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_irq_cnt
+                0x0000000080000084        0x4 D:/LA132_SoC_SW_EXP/build/uart.o
+ .bss.s_irq_hook
+                0x0000000080000088       0x40 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                0x00000000800000c8                . = ALIGN (0x4)
+ *(.scommon)
+                0x00000000800000c8                . = ALIGN (0x4)
+ *(COMMON)
+                0x00000000800000c8                . = ALIGN (0x4)
+                0x00000000800000c8                _ebss = .
+LOAD D:/LA132_SoC_SW_EXP/build/start.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_dac9708.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_adc9280.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_usb.o
+LOAD D:/LA132_SoC_SW_EXP/build/usb.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_usb_kbd.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_at24c64.o
+LOAD D:/LA132_SoC_SW_EXP/build/axi_dma.o
+LOAD D:/LA132_SoC_SW_EXP/build/lcd_gfx.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_ddr_test.o
+LOAD D:/LA132_SoC_SW_EXP/build/axi_lcd.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_axi_lcd_dma.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_touch_trail.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_ram.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_ddram.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_apb_dma.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_apb_kbd.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_dot_matrix.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_intc16.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_led_flow.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_rtc_clock.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_scope.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_spi_stream.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_touch_multi.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_gpio_led.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_gpio_mode.o
+LOAD D:/LA132_SoC_SW_EXP/build/seg7.o
+LOAD D:/LA132_SoC_SW_EXP/build/i2c.o
+LOAD D:/LA132_SoC_SW_EXP/build/intc.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_intc_btn.o
+LOAD D:/LA132_SoC_SW_EXP/build/latimer.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_lcd_pic.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_lcd_test.o
+LOAD D:/LA132_SoC_SW_EXP/build/font.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_lcd_pass.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_touch.o
+LOAD D:/LA132_SoC_SW_EXP/build/pwm.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_pwm_motor.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_rtc.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_spi_adc.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_spi_dac.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_step_motor.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_timer_irq.o
+LOAD D:/LA132_SoC_SW_EXP/build/demo_uart_irq.o
+LOAD D:/LA132_SoC_SW_EXP/build/uart.o
+LOAD D:/LA132_SoC_SW_EXP/build/AT24C64.o
+LOAD D:/LA132_SoC_SW_EXP/build/math.o
+LOAD D:/LA132_SoC_SW_EXP/build/putchar.o
+LOAD D:/LA132_SoC_SW_EXP/build/printf.o
+LOAD D:/LA132_SoC_SW_EXP/build/rtc.o
+LOAD D:/LA132_SoC_SW_EXP/build/main.o
+LOAD D:/LA132_SoC_SW_EXP/build/interrupt.o
+OUTPUT(D:/LA132_SoC_SW_EXP/build/la132_demo.elf elf32-loongarch)
+
+.debug_line     0x0000000000000000     0x1e73
+ .debug_line    0x0000000000000000       0x9f D:/LA132_SoC_SW_EXP/build/start.o
+ .debug_line    0x000000000000009f      0x417 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_line    0x00000000000004b6      0x35d D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_line    0x0000000000000813      0x22e D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_line    0x0000000000000a41      0x41d D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_line    0x0000000000000e5e       0xb8 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_line    0x0000000000000f16      0xbf2 D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_line    0x0000000000001b08      0x10a D:/LA132_SoC_SW_EXP/build/main.o
+ .debug_line    0x0000000000001c12      0x261 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.debug_info     0x0000000000000000     0x213d
+ .debug_info    0x0000000000000000       0x26 D:/LA132_SoC_SW_EXP/build/start.o
+ .debug_info    0x0000000000000026      0x482 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_info    0x00000000000004a8      0x311 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_info    0x00000000000007b9      0x3b6 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_info    0x0000000000000b6f      0x3f0 D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_info    0x0000000000000f5f       0xf3 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_info    0x0000000000001052      0xc8b D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_info    0x0000000000001cdd      0x16c D:/LA132_SoC_SW_EXP/build/main.o
+ .debug_info    0x0000000000001e49      0x2f4 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.debug_abbrev   0x0000000000000000      0xbff
+ .debug_abbrev  0x0000000000000000       0x14 D:/LA132_SoC_SW_EXP/build/start.o
+ .debug_abbrev  0x0000000000000014      0x192 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_abbrev  0x00000000000001a6      0x16b D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_abbrev  0x0000000000000311      0x18c D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_abbrev  0x000000000000049d      0x182 D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_abbrev  0x000000000000061f       0xa8 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_abbrev  0x00000000000006c7      0x326 D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_abbrev  0x00000000000009ed       0xa1 D:/LA132_SoC_SW_EXP/build/main.o
+ .debug_abbrev  0x0000000000000a8e      0x171 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.debug_aranges  0x0000000000000000      0x2c8
+ .debug_aranges
+                0x0000000000000000       0x20 D:/LA132_SoC_SW_EXP/build/start.o
+ .debug_aranges
+                0x0000000000000020       0x40 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_aranges
+                0x0000000000000060       0x58 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_aranges
+                0x00000000000000b8       0x70 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_aranges
+                0x0000000000000128       0x90 D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_aranges
+                0x00000000000001b8       0x20 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_aranges
+                0x00000000000001d8       0x58 D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_aranges
+                0x0000000000000230       0x20 D:/LA132_SoC_SW_EXP/build/main.o
+ .debug_aranges
+                0x0000000000000250       0x78 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.debug_str      0x0000000000000000      0x7f5
+ .debug_str     0x0000000000000000       0x43 D:/LA132_SoC_SW_EXP/build/start.o
+ .debug_str     0x0000000000000043      0x258 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+                                        0x291 (size before relaxing)
+ .debug_str     0x000000000000029b       0x95 D:/LA132_SoC_SW_EXP/build/seg7.o
+                                        0x22e (size before relaxing)
+ .debug_str     0x0000000000000330       0xe6 D:/LA132_SoC_SW_EXP/build/latimer.o
+                                        0x273 (size before relaxing)
+ .debug_str     0x0000000000000416      0x161 D:/LA132_SoC_SW_EXP/build/uart.o
+                                        0x2e0 (size before relaxing)
+ .debug_str     0x0000000000000577       0x32 D:/LA132_SoC_SW_EXP/build/putchar.o
+                                        0x1b1 (size before relaxing)
+ .debug_str     0x00000000000005a9      0x134 D:/LA132_SoC_SW_EXP/build/printf.o
+                                        0x2f6 (size before relaxing)
+ .debug_str     0x00000000000006dd       0x25 D:/LA132_SoC_SW_EXP/build/main.o
+                                        0x1b9 (size before relaxing)
+ .debug_str     0x0000000000000702       0xf3 D:/LA132_SoC_SW_EXP/build/interrupt.o
+                                        0x2bd (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x1c1b
+ .debug_loc     0x0000000000000000      0x1c6 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_loc     0x00000000000001c6      0x212 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_loc     0x00000000000003d8      0x1fb D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_loc     0x00000000000005d3      0x175 D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_loc     0x0000000000000748       0x25 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_loc     0x000000000000076d     0x13ed D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_loc     0x0000000000001b5a       0xc1 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.debug_ranges   0x0000000000000000      0x2d0
+ .debug_ranges  0x0000000000000000       0x60 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+ .debug_ranges  0x0000000000000060       0x48 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .debug_ranges  0x00000000000000a8       0x60 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .debug_ranges  0x0000000000000108       0x98 D:/LA132_SoC_SW_EXP/build/uart.o
+ .debug_ranges  0x00000000000001a0       0x10 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .debug_ranges  0x00000000000001b0       0xa8 D:/LA132_SoC_SW_EXP/build/printf.o
+ .debug_ranges  0x0000000000000258       0x10 D:/LA132_SoC_SW_EXP/build/main.o
+ .debug_ranges  0x0000000000000268       0x68 D:/LA132_SoC_SW_EXP/build/interrupt.o
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 D:/LA132_SoC_SW_EXP/build/demo_kbd_scan.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/seg7.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/latimer.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/uart.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/putchar.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/printf.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/main.o
+ .comment       0x0000000000000011       0x12 D:/LA132_SoC_SW_EXP/build/interrupt.o
